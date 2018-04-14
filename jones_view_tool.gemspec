@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["krisjones0213@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://jones.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|

@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JonesViewTool::Renderer.copyright'Kristen Jones', 'All rights reserved'
+```
 
 ## Development
 
